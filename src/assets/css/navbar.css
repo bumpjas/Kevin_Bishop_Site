@@ -1,0 +1,38 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    min-height: 10vh;
+    background-color:  rgba(236, 203, 59, 0);
+    color: rgb(236, 203, 59);
+}
+
+.nav-links {
+    display: flex;
+    width: 50rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: rgb(236, 203, 59);
+    margin-left: -9rem;
+    
+}
+
+#logo {
+    width: 12rem;
+    height: 7rem;
+    border: .4rem solid  rgb(236, 203, 59);
+    border-style: ridge;
+    background-color: black;
+    margin-left: 13rem;
+}
+.nav-links1,.nav-links2,.nav-links3,.nav-links4,.nav-links5,.nav-links6{
+    display: flex;
+    width: -1rem;
+    list-style: none;
+    color:white;
+    font-size: 1.5rem;
+    margin-top: -3rem;
+    margin-right: -1rem;
+  float: right;
+   
+}

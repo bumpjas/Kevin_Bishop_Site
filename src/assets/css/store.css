@@ -1,0 +1,18 @@
+.container
+{
+    background-color: azure;
+    display: flex;
+    flex-flow: wrap;
+    width: fit-content;
+    text-transform: uppercase;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: .8em;
+    font-size: 1.2rem;
+    text-overflow: clip;
+    text-align: left;
+    margin-left: 31rem;
+    padding: 3rem;
+    color: black;
+    margin-top: -4rem;
+    padding-top: .1rem;
+    }

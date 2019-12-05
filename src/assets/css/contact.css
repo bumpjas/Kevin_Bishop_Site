@@ -1,0 +1,8 @@
+#kblogo {
+    width: 12rem;
+    height: 7rem;
+    border: .4rem solid  rgb(236, 203, 59);
+    border-style: ridge;
+    background-color: black;
+    margin-left: 13rem;
+}

@@ -1,0 +1,70 @@
+.top {
+  display: flex;
+    flex-flow: wrap;
+    width: fit-content;
+    margin-bottom: 4rem;
+    text-align: center;
+    color:gold;
+    text-transform: uppercase;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    letter-spacing: .4em;
+    font-size: 4.1rem;
+    text-shadow: 0 .1rem 0 rgba(black, .1);
+    text-indent: .3em;
+    text-overflow: clip;
+    text-align: center;
+    margin-left: 31rem;
+    text-shadow: 0px 0px 30px rgb(249, 249, 248),0px 0px 30px rgb(247, 245, 245),0px 0px 30px rgb(17, 1, 1),0px 0px 10px  #75130f,0px 0px 10px #553300;
+    margin-top: -5rem;
+   
+}
+body
+{
+  display: flex;
+    flex-flow: wrap;
+    width: fit-content;
+  text-transform: uppercase;
+  letter-spacing: .4em;
+  font-size: 1rem;
+  text-shadow: 0.1rem 0 rgba(black, .1);
+  text-indent: .3em;
+  text-overflow: clip;
+  text-align: right;
+  margin-bottom: -6rem;
+  
+}
+
+.text{
+  display: flex;
+    flex-flow: wrap;
+    width: fit-content;
+  text-transform: uppercase;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: .6em;
+  font-size: 1rem;
+  text-overflow: clip;
+  text-align: left;
+  margin-left: 32rem;
+  color:white;
+  text-shadow: 0px 0px 30px rgb(245, 245, 242),0px 0px 30px rgb(39, 5, 5),0px 0px 30px rgb(31, 4, 4),0px 0px 10px  #a36d1b,0px 0px 10px #553300;
+  
+  margin-top: -8rem;
+ 
+}
+.row
+{
+  margin-left: 31rem;
+  margin-top: -4rem;
+  
+    
+
+}
+
+/* .profilepic{
+  .bottom-right 
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  
+} */

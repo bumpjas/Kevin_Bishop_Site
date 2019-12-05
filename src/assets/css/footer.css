@@ -1,0 +1,14 @@
+/* content {
+    min-height: calc(100vh - 70px);
+  }
+  .footer {
+    height: 50px;
+  } */
+
+#socialmedialinks {
+margin-top: .5rem;
+width: 4rem;
+height: 3rem;
+padding-right: 6rem;
+margin-bottom: 1rem ;
+}
